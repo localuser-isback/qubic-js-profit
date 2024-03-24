@@ -1,4 +1,4 @@
-//run this with node or open browser console and paste it in.
+//run this with node or open browser console and paste it in (qubic site or any site without cors).
 
 const myHashrate = 9999; //modify to your hashrate (it/s)
 
